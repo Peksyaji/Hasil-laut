@@ -1,0 +1,152 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,2524428,,,,2524428,,4982482,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,20247764,,,,20247764,,76017320,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,4437880,,,,4437880,,17664632,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,273035,,,,273035,,1598677,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,24513552,,,,24513552,,211710500,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,4383513,,,,4383513,,10662877,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,19422671,,,,19422671,,93593758,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,4316474,,,,4316474,,19276801,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,143246,,,,143246,,909503,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,26997641,,,,26997641,,239310102,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,12539186,,,,12539186,,25217733,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,14135303,,,,14135303,,72709392,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,3911150,,,,3911150,,16810987,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,153712,,,,153712,,1091809,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,30814101,,,,30814101,,275370243,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,9974793,,,,9974793,,23262879,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,11098937,,,,11098937,,62198730,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,3960053,,,,3960053,,14793124,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,209277,,,,209277,,1193980,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,30326238,,,,30326238,,259661819,,,0
+H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,2411509,,,,2411509,,3903587,,,0
+H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,12150610,,,,12150610,,58366315,,,0
+H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,4550301,,,,4550301,,13725155,,,0
+H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,471320,,,,471320,,2853473,,,0
+H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,23990215,,,,23990215,,189729474,,,0
+H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,3074289,,,,3074289,,4492352,,,0
+H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,10042132,,,,10042132,,49777029,,,0
+H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,3016196,,,,3016196,,10118424,,,0
+H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,519691,,,,519691,,2802272,,,0
+H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,21392848,,,,21392848,,147944021,,,0
+H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,5317785,,,,5317785,,5022021,,,0
+H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,11168585,,,,11168585,,50901993,,,0
+H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,3777715,,,,3777715,,13143595,,,0
+H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,479292,,,,479292,,2729040,,,0
+H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,26559464,,,,26559464,,182317172,,,0
+H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,2238328,,,,2238328,,3879685,,,0
+H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,17329344,,,,17329344,,59491931,,,0
+H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,4601353,,,,4601353,,15904552,,,0
+H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,405238,,,,405238,,2007026,,,0
+H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,24579731,,,,24579731,,187534645,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,2770707,,,,2770707,,5947570,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,17811581,,,,17811581,,61140164,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,4551897,,,,4551897,,15856048,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,354379,,,,354379,,2362082,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",8,Weight in kilograms,23238889,,,,23238889,,180095194,,,0
+H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen.",8,Weight in kilograms,957102,,,,957102,,1353724,,,0
+H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen.",8,Weight in kilograms,8224940,,,,8224940,,26695509,,,0
+H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen.",8,Weight in kilograms,4526178,,,,4526178,,11632579,,,0
+H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen.",8,Weight in kilograms,341114,,,,341114,,1725886,,,0
+H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen.",8,Weight in kilograms,26378798,,,,26378798,,134669827,,,0
+H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen.",8,Weight in kilograms,2696215,,,,2696215,,3429525,,,0
+H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen.",8,Weight in kilograms,11380233,,,,11380233,,42630710,,,0
+H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen.",8,Weight in kilograms,4095198,,,,4095198,,12146659,,,0
+H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen.",8,Weight in kilograms,516528,,,,516528,,2415418,,,0
+H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen.",8,Weight in kilograms,22693734,,,,22693734,,142008387,,,0
+H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,574757,,,,574757,,832663,,,0
+H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,5820140,,,,5820140,,20785092,,,0
+H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,2448249,,,,2448249,,5102455,,,0
+H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,164921,,,,164921,,634713,,,0
+H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,3858265,,,,3858265,,14420315,,,0
+H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,177234,,,,177234,,201080,,,0
+H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,5088374,,,,5088374,,16679901,,,0
+H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,1348975,,,,1348975,,3543003,,,0
+H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,240284,,,,240284,,1713076,,,0
+H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,3986452,,,,3986452,,18382378,,,0
+H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,1168460,,,,1168460,,1006949,,,0
+H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,2421585,,,,2421585,,10385763,,,0
+H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,881116,,,,881116,,1926053,,,0
+H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,327378,,,,327378,,1250821,,,0
+H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,5317562,,,,5317562,,19667584,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,532955,,,,532955,,534368,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,4025936,,,,4025936,,9391479,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,3316034,,,,3316034,,3412429,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,685627,,,,685627,,2241377,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,5778937,,,,5778937,,23411637,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,3539925,,,,3539925,,2794898,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,4401386,,,,4401386,,13031490,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,4172673,,,,4172673,,4647792,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,532116,,,,532116,,1978007,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,6883257,,,,6883257,,26783214,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,5682448,,,,5682448,,3161642,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,7360965,,,,7360965,,15087426,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,4824550,,,,4824550,,4969498,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,1009907,,,,1009907,,3316744,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,8363174,,,,8363174,,34323261,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,3323658,,,,3323658,,1980433,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,10885121,,,,10885121,,18667967,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,4440212,,,,4440212,,5094135,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,1387151,,,,1387151,,4560325,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,11569986,,,,11569986,,51256876,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,3152275,,,,3152275,,2514887,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,8756853,,,,8756853,,18910831,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,5012896,,,,5012896,,5795894,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,1646276,,,,1646276,,5356556,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,12946406,,,,12946406,,58503683,,,0
+H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,2397798,,,,2397798,,1835644,,,0
+H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,11017773,,,,11017773,,19500870,,,0
+H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,5281596,,,,5281596,,6108965,,,0
+H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,979143,,,,979143,,3805171,,,0
+H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,13113141,,,,13113141,,56240106,,,0
+H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,1758759,,,,1758759,,1883332,,,0
+H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,8383147,,,,8383147,,13983785,,,0
+H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,7537417,,,,7537417,,7713894,,,0
+H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,1096411,,,,1096411,,3904419,,,0
+H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,16919554,,,,16919554,,68540660,,,0
+H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,716760,,,,716760,,1166466,,,0
+H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,11876139,,,,11876139,,16817672,,,0
+H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,5671869,,,,5671869,,7191996,,,0
+H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,914163,,,,914163,,2531209,,,0
+H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,14995131,,,,14995131,,58278782,,,0
+H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,1408695,,,,1408695,,812004,,,0
+H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,8543940,,,,8543940,,16476151,,,0
+H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,5360789,,,,5360789,,7668010,,,0
+H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,396299,,,,396299,,1288214,,,0
+H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,20723692,,,,20723692,,85767465,,,0
+H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,793974,,,,793974,,611133,,,0
+H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,6478873,,,,6478873,,19843873,,,0
+H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,6546193,,,,6546193,,12326313,,,0
+H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,187488,,,,187488,,568125,,,0
+H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,23611007,,,,23611007,,111431990,,,0
+H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,1390873,,,,1390873,,2009419,,,0
+H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,5767673,,,,5767673,,19721021,,,0
+H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,5321117,,,,5321117,,10089713,,,0
+H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,325185,,,,325185,,1300739,,,0
+H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,23702318,,,,23702318,,119134984,,,0
+H0,1989,1989,1989,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,768371,,,,768371,,1987000,,,0
+H0,1989,1989,1989,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,9124,,,,9124,,8000,,,0
+H0,1989,1989,1989,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,20160,,,,20160,,15000,,,0
+H0,1990,1990,1990,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,1397745,,,,1397745,,4007832,,,0
+H0,1990,1990,1990,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,114405,,,,114405,,240530,,,0
+H0,1990,1990,1990,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,81460,,,,81460,,302750,,,0
+H0,1991,1991,1991,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,2095940,,,,2095940,,6074712,,,0
+H0,1991,1991,1991,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,303764,,,,303764,,936927,,,0
+H0,1991,1991,1991,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,1019054,,,,1019054,,4051819,,,0
+H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,2524288,,,,2524288,,7033861,,,0
+H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,869742,,,,869742,,1825585,,,0
+H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,8062,,,,8062,,22563,,,0
+H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,1723687,,,,1723687,,6136056,,,0
+H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,522750,,,,522750,,290907,,,0
+H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,4737562,,,,4737562,,13832184,,,0
+H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,1420976,,,,1420976,,4438975,,,0
+H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,2668812,,,,2668812,,9821320,,,0
+H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,34949,,,,34949,,29535,,,0
+H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,5012687,,,,5012687,,16337398,,,0
+H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,2586671,,,,2586671,,6286290,,,0
+H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,4711936,,,,4711936,,18071050,,,0
+H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,314046,,,,314046,,712445,,,0
+H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,6506901,,,,6506901,,18068472,,,0
+H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,2400999,,,,2400999,,5820624,,,0
+H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,78304,,,,78304,,364709,,,0
+H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0304,"Fish fillets, fish meat, mince except liver, roe",8,Weight in kilograms,3859597,,,,3859597,,14604304,,,0
